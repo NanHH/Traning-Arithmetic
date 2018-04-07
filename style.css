@@ -1,0 +1,19 @@
+form {
+	
+}
+
+img {
+	border: 1px solid;
+	border-radius: 3px;
+	height: 24px;
+	width: 24px;
+}
+
+div {
+	margin: 4px;
+	padding: 4px;
+}
+
+button {
+	margin-top: 10px;
+}
